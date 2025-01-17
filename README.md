@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<h4 align="center">I am a creative and detail-oriented Android developer and UI/UX Designer with some experience in designing intuitive and visually appealing user interfaces. </h4>
+<h4 align="center">I am a creative and detail-oriented Software developer and UI/UX Designer with some experience in designing intuitive and visually appealing user interfaces. </h4>
 
 - 📫 How to reach me **vaishnav.tayal2108@gmail.com**
 
